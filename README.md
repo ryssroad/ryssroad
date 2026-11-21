@@ -18,7 +18,6 @@ Almaty, KZ · [X @imtheryss](https://x.com/imtheryss) · [LinkedIn](https://www.
 ## Protocol work
 
 - **Post Fiat**: validator operator and Task Node contributor ([example PR](https://github.com/CorbanuCore/CorbanuTerminal/pull/2423))
-- **Gensyn**: ~9 months on the testnet
 - Long-running node and validator operations across several networks
 
 ## How I build
